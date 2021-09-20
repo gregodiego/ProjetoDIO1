@@ -1,0 +1,15 @@
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/Digital Innovation/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/Users/diego/Documents/Digital Innovation/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/Users/diego/Documents/Digital Innovation/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/Users/diego/Documents/Digital Innovation/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/Users/diego/Documents/Digital Innovation/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/Users/diego/Documents/Digital Innovation/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/Users/diego/Documents/Digital Innovation/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
